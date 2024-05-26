@@ -1,4 +1,5 @@
 # Meal Master
+This is the final project for the course CSC207 offered at the University of Toronto presented by Christoffer Tan, Faraaz Ahmed, Janis Joplin and Razan Rifandi.
 
 ## Problem domain
 **Food and Nutrition**
