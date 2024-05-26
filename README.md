@@ -41,6 +41,3 @@ The full documentation of this process can be seen in the [GenerateRecipeAPICall
 ## UML Diagram
 The UML diagram of our project can be seen below:
 ![umlDiagram.png](misc/img/umlDiagram.png)
-
-## Work Progress
-https://docs.google.com/document/d/17-udWtudT_YHJD78HRxpyD37lXe3Hd1oKTVo7gR6KQI/edit 
