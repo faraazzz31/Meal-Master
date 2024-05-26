@@ -1,4 +1,4 @@
-# csc207-project
+# Meal Master
 
 ## Problem domain
 **Food and Nutrition**
